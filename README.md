@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Yattol/elixir-simple-chat.svg?branch=main)](https://travis-ci.com/Yattol/elixir-simple-chat)
+
 # Chat
 
 To start your Phoenix server:
