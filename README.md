@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Yattol/elixir-simple-chat.svg?branch=main)](https://travis-ci.com/Yattol/elixir-simple-chat)
+[![Build Status](https://travis-ci.com/Yattol/elixir-simple-chat.svg?branch=master)](https://travis-ci.com/Yattol/elixir-simple-chat)
 
 # Chat
 
