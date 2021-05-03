@@ -19,6 +19,9 @@ erl_crash.dump
 # Also ignore archive artifacts (built via "mix archive.build").
 *.ez
 
+# Ignore vm stuff
+*.beam
+
 # Ignore package tarball (built via "mix hex.build").
 chat-*.tar
 
@@ -33,6 +36,10 @@ npm-debug.log
 # this depending on your deployment strategy.
 /priv/static/
 
-# OSX stuff
+# Secrets
+/config/*.secret.exs
+
+# OSX stuff / IDE shit
 .DS_Store
 .formatter.exs
+.idea
