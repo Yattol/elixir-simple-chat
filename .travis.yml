@@ -7,3 +7,5 @@ env:
   - MIX_ENV=test
 script: # run the tests:
   - mix test
+dist: trusty
+sudo: false
